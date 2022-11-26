@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 <p>
   <h1 align="center"><b>Hi there, I'm Mohd Ajlal! 👋</b></h1>
 </p>
+<p>
+  <h4 align="center"><b>"Where people see a problem, we see an opportunity and a new project."</b></h4>
+</p>
+<br>
+<img align="center" height="500px" alt="Mohd Ajlal Photo" src="https://avatars.githubusercontent.com/u/78673824?v=4" />
 <br>
 <a href="https://www.facebook.com/mohdajlal.ajlal" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/mohd_ajlal" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
