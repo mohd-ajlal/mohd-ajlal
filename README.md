@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-ajlal&show_icons=true&hide_border=true&theme=radical" width="37%" alt="mohd-ajlal's Top Languages">
 
-<---div align="center"--->
-  <---img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ajlal&theme=dark" alt="mohd-ajlal's Github Streaks" width="70%"--->
-<---/div--->
+<!---div align="center"--->
+  <!---img src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-ajlal&theme=dark" alt="mohd-ajlal's Github Streaks" width="70%"--->
+<!---/div--->
 
 <br>
 
