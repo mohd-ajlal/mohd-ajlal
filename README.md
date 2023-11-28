@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 <img height="500px" alt="Mohd Ajlal Photo" src="https://avatars.githubusercontent.com/u/78673824?v=4" /></p>
 <br>
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=mohd-ajlal&label=Profile%20views&color=0e75b6&style=flat" alt="mohd-ajlal" />
 <a href="https://www.facebook.com/mohdajlal.ajlal" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
 <a href="https://instagram.com/mohd_ajlal" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/mohd-ajlal-816388253/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;</p>
