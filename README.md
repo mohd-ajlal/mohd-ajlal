@@ -4,11 +4,12 @@
 
 ### 🌟 About Me
 
-- 🚀 Passionate **Full Stack Developer**, **IoT Developer**, and **Data Analyst**
+- 🚀 Passionate **Full Stack Developer**, **IoT Developer**, and **Data Scientist**
+- 🌍 Skilled in **Web Development** using modern frameworks and libraries
+- 📱 Experienced in **React-Native for Android & iOS Development**
 - 🎓 **Student Expert @Postman** | Building APIs like a pro
 - 💡 Always eager to learn and explore new technologies
 - 📌 Strong foundation in **Data Structures, Algorithms, and Software Development**
-- 📱 Experienced in **React-Native for Android & App Development**
 - ✨ **"Where people see a problem, I see an opportunity!"**
 
 ---
