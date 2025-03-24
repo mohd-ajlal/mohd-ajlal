@@ -1,5 +1,5 @@
 ### <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=I'm+Mohd+Ajlal!+%F0%9F%91%8B" alt="Typing SVG" /></p>
-<p align="center"> <a href="https://portfolio-mohd-ajlals-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a></p>
+<p align="center"> <a href="https://mohdajlal.tech/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a></p>
 ---
 
 ### 🌟 About Me
@@ -74,7 +74,7 @@
 
 
 📬 Connect with Me
-<p align="center"> <a href="https://portfolio-mohd-ajlals-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp; <a href="https://www.linkedin.com/in/mohd-ajlal-816388253/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; <a href="https://github.com/mohd-ajlal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp; <a href="https://instagram.com/mohd_ajlal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp; <a href="mailto:ajlal00786@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp; </p>
+<p align="center"> <a href="https://mohdajlal.tech/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp; <a href="https://www.linkedin.com/in/mohd-ajlal-816388253/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp; <a href="https://github.com/mohd-ajlal"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp; <a href="https://instagram.com/mohd_ajlal"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp; <a href="mailto:ajlal00786@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp; </p>
 
 ---
 
